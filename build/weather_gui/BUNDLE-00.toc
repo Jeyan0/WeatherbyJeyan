@@ -1,0 +1,3 @@
+([('weather_gui',
+   '/Users/jeyanagbayani/Documents/weather-app/dist/weather_gui',
+   'EXECUTABLE')],)

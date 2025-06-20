@@ -1,0 +1,3 @@
+([('WeatherbyJeyan',
+   '/Users/jeyanagbayani/Documents/weather-app/dist/WeatherbyJeyan',
+   'EXECUTABLE')],)
